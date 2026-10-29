@@ -1,0 +1,5 @@
+incident_id,detected_at,site_id,inverter_id,incident_type,severity,assigned_to,status,resolution_note
+INC-001,2026-10-28 10:00,SITE-B,INV-01,Communication Loss,High,Monitoring Team,Resolved,Communication restored at 11:00
+INC-002,2026-10-28 11:00,SITE-A,INV-02,Low Generation,Medium,Operations Team,Investigating,Compare output with expected generation
+INC-003,2026-10-29 10:00,SITE-A,INV-02,Low Generation,Medium,Operations Team,Open,Check generation and equipment readings
+INC-004,2026-10-29 11:00,SITE-A,INV-02,Communication Loss,High,IT Support,Open,Verify communication and inverter status
